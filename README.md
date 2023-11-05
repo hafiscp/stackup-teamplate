@@ -1,11 +1,12 @@
-![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
+![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)
+
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. [Hafis CP](https://github.com/hafiscp)
+2. [Chaithanya Shaji](https://github.com/chaithanyashaji)
 ## Team Id
-Team id here
+teamx  
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
